@@ -21,3 +21,5 @@ A Landing Page **HortiLink** é uma página promocional criada para apresentar o
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
+
+![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellowgreen) 
