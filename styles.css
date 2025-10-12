@@ -57,6 +57,12 @@ body {
     font-size: 1.8rem;
 }
 
+.logo img {
+    height: 40px; /* ajuste conforme o layout */
+    width: auto;
+    vertical-align: middle;
+}
+
 .nav-menu {
     display: flex;
     list-style: none;
