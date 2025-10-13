@@ -44,6 +44,11 @@ body {
     height: 70px;
 }
 
+#logo_hortlink {
+    height: 280px; /* ajuste conforme o layout */
+    width: auto;
+}
+
 .logo {
     display: flex;
     align-items: center;
@@ -61,6 +66,7 @@ body {
     height: 40px; /* ajuste conforme o layout */
     width: auto;
     vertical-align: middle;
+    padding-right: 10px;
 }
 
 .nav-menu {
